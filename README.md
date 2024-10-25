@@ -12,7 +12,7 @@ Soy Eduard Rivas, fanático a los deportes y estudiante de desarrollo de softwar
 
 ## Mis notas de lectura
 
-- [***Mindset***](./mindset.md)
+- [***Mindset***](./README.md)
 - 101
     - [read01](./101/read01.md)
     - [read02](./101/read02.md)
