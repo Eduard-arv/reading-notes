@@ -13,7 +13,6 @@ Soy Eduard Rivas, fanático a los deportes y estudiante de desarrollo de softwar
 
 - 101
     - [***Mindset***](./101/mindset.md)
-<<<<<<< HEAD
     - [**Read01**](./101/read01.md)
     - [**Read02**](./101/read02.md)
     - [**Read03**](./101/read03.md)
