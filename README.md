@@ -8,7 +8,6 @@ Soy Eduard Rivas, fanático a los deportes y estudiante de desarrollo de softwar
 
 - [***Github:***](https://github.com/Eduard-arv)
 - [***Linkedin:***](https://www.linkedin.com/in/eduard-rivas-638a172a9/)
-- [***Correo electrónico:***](eduard62691@gmail.com)
 
 ## Mis notas de lectura
 
