@@ -21,11 +21,11 @@ else {
 
 JavaScript utiliza varios tipos de operadores, entre ellos estan:
 
-- Operadores de Asignación
-- Operadores de Comparación
-- Operadores Lógicos
-- Operadores Bit a Bit
-- Operadores Aritméticos
+- Operadores de Asignación.
+- Operadores de Comparación.
+- Operadores Lógicos.
+- Operadores Bit a Bit.
+- Operadores Aritméticos.
 
 Este útlimo, permite efectuar operaciones matemáticas básicas utilizando los siguientes símbolos:
 
