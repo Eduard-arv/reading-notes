@@ -10,6 +10,7 @@
 
 El propósito de éstos condiconales en contralar el flujo y trabajar condiciones múltiples, es decir, permiten tomar decisiones dentro del programa y pueden encadenar múñtiples condiciones usando ´else if´. Ejemplo:
 
+
  if (condición) {
     } 
 else {
