@@ -17,4 +17,4 @@ La Mentalidad de Crecimiento o Growth Mindset es una forma de pensar que se cent
 4. Tener confianza en el proceso y tener la convición de mejorar y crecer de manera constante.
 5. Colaborar con otras personas con el fin de compartir experiencias y así aumentar nuestros conociemintos.
 
-[***Enlace a README***](./reading-notes.README.md)
+[***Enlace a README***](eduard-arv.github.io/reading-notes/)
