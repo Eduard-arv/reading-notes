@@ -17,7 +17,7 @@ El bucle *"while"* se ejecutará de manera continua hasta que la `coondición` s
 ---
 # ¿Qué método usarías para agregar un elemento al final de un array y cómo se utiliza?
 
-El método más eficiente para agregar elementos al final de un array es a través de `push()`, ya que este permite agregar uno o varios elementos a la vez, devuelve la nueva longitud del `array`, realiza operaciones de forma rápida, especialmente en `arrays` grandes, además de que es sencillo y facil de usar.
+El método más eficiente para agregar elementos al final de un array es a través de `push()`, ya que este permite a gregar uno o varios elementos a la vez, devuelve la nueva longitud del `array`, realiza operaciones de forma rápida, especialmente en `arrays` grandes, además de que es sencillo y facil de usar.
 
 Ejemplo:
 
