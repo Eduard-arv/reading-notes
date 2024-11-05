@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Introducción al DOM
 
 ## ¿Qué es el DOM?
@@ -46,7 +45,6 @@ Para cambiar el color de fondo de un elemento en el DOM, el método más común 
 // Cambiamos el color de fondo a azul
 
 `miDiv.style.backgroundColor = "blue";` 
-=======
 # Introducción al DOM
 
 ## ¿Qué es el DOM?
@@ -94,4 +92,3 @@ Para cambiar el color de fondo de un elemento en el DOM, el método más común 
 // Cambiamos el color de fondo a azul
 
 `miDiv.style.backgroundColor = "blue";` 
->>>>>>> 1e47743e5c0f34dfd9e668205b5ef731a5cb6908
