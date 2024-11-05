@@ -16,7 +16,7 @@ Es decir, el DOM trabajando el conjunto con javascript permite  cambiar dinámic
 
 El método más común y directo para seleccionar un elemento por su ID es `getElementById()`. Este método devuelve una referencia al elemento con el ID especificado.
 
-- Ejemplo en *JavaScript*:
+- Ejemplo en *JavaScript*: 
 
 `let boton = document.getElementById("miBoton");
 boton.addEventListener("click", function() {
